@@ -11,7 +11,7 @@
 </h2>
 
 ## 🆕 Updates
-- 23/11/23: Optimization Evolutive Algorthim phase
+- 6/12/23: fixing code
 
 Methodology:
 - ✅ Literature Review
